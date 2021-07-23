@@ -1,0 +1,15 @@
+p $register --> to check the value of any register
+x/{num}{type}{size} &variable --> to check the value of the variable
+i r --> info registers
+info functions --> shows the functions
+r --> run
+c --> continue
+s --> step
+
+info break --> to see breakpoints
+del <num> --> to remove that particular breakpoint
+
+info frame or i f --> to view the stack frame
+
+set write on --> to write instructions
+nexti --> to step onto the next instruction
